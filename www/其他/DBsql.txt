@@ -1,0 +1,19 @@
+set character_set_client=utf8;客户端编码方式
+
+set character_set_connection= utf8;建立连接使用的编码
+
+set character_set_database= utf8;数据库的编码
+
+set character_set_results= utf8;结果集的编码
+
+set character_set_server= utf8;数据库服务器的编码
+
+set character_set_filesystem= utf8;数据库文件系统的编码
+
+
+set character_set_client=utf8;
+set character_set_connection= utf8;
+set character_set_database= utf8;
+set character_set_results= utf8;
+set character_set_server= utf8;
+set character_set_filesystem= utf8;
